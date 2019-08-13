@@ -16,3 +16,6 @@ Since the project's main focus is on building the GANs, we've done some of the p
 If you are working locally, you can download this data by clicking here (https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip)
 
 This is a zip file that you'll need to extract in the home directory of this notebook for further loading and processing. After extracting the data, you should be left with a directory of data processed_celeba_small/
+
+### Please Note:
+### This project work is a part of Udacity Deep Learning Nanodegree Program. I have executed it on my local machine with all the project rubrics to meet all the required specifications. The project work has been uploaded here for reference.
