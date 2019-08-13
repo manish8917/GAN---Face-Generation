@@ -18,4 +18,4 @@ If you are working locally, you can download this data by clicking here (https:/
 This is a zip file that you'll need to extract in the home directory of this notebook for further loading and processing. After extracting the data, you should be left with a directory of data processed_celeba_small/
 
 ### Please Note:
-### This project work is a part of Udacity Deep Learning Nanodegree Program. Executed it on my local machine with all the project rubrics to meet all required specifications & uploaded here for reference.
+### I've executed this project work on my local machine with all the project rubrics to meet all required specifications of Udacity Nanodegree Program & uploaded here for reference.
